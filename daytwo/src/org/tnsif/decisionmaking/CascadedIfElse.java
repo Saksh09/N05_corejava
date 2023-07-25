@@ -6,7 +6,8 @@ public class CascadedIfElse {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		int age=sc.nextInt();
+		int ag
+		e=sc.nextInt();
 		
 		int weigth=sc.nextInt();
 		
