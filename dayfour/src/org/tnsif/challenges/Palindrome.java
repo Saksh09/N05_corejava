@@ -12,8 +12,6 @@ static void f(int i,String s) {
 	else 
 		System.out.print("palindome");
 		value=true;
-
-	
 }
 	
 }
@@ -22,7 +20,7 @@ static void f(int i,String s) {
 	public static void main(String[] args) {
 		String s="abbbabbbba";
 		int i=s.length();
-		System.out.println(f(i,s));
+		f(i,s);
 
 	}
 
